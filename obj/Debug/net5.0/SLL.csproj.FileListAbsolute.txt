@@ -1,0 +1,15 @@
+/Users/sujungchoi/Desktop/Coding/Algo_Practice/SLL/bin/Debug/net5.0/SLL.deps.json
+/Users/sujungchoi/Desktop/Coding/Algo_Practice/SLL/bin/Debug/net5.0/SLL.runtimeconfig.json
+/Users/sujungchoi/Desktop/Coding/Algo_Practice/SLL/bin/Debug/net5.0/SLL.runtimeconfig.dev.json
+/Users/sujungchoi/Desktop/Coding/Algo_Practice/SLL/bin/Debug/net5.0/SLL.dll
+/Users/sujungchoi/Desktop/Coding/Algo_Practice/SLL/bin/Debug/net5.0/ref/SLL.dll
+/Users/sujungchoi/Desktop/Coding/Algo_Practice/SLL/bin/Debug/net5.0/SLL.pdb
+/Users/sujungchoi/Desktop/Coding/Algo_Practice/SLL/obj/Debug/net5.0/SLL.csprojAssemblyReference.cache
+/Users/sujungchoi/Desktop/Coding/Algo_Practice/SLL/obj/Debug/net5.0/SLL.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sujungchoi/Desktop/Coding/Algo_Practice/SLL/obj/Debug/net5.0/SLL.AssemblyInfoInputs.cache
+/Users/sujungchoi/Desktop/Coding/Algo_Practice/SLL/obj/Debug/net5.0/SLL.AssemblyInfo.cs
+/Users/sujungchoi/Desktop/Coding/Algo_Practice/SLL/obj/Debug/net5.0/SLL.csproj.CoreCompileInputs.cache
+/Users/sujungchoi/Desktop/Coding/Algo_Practice/SLL/obj/Debug/net5.0/SLL.dll
+/Users/sujungchoi/Desktop/Coding/Algo_Practice/SLL/obj/Debug/net5.0/ref/SLL.dll
+/Users/sujungchoi/Desktop/Coding/Algo_Practice/SLL/obj/Debug/net5.0/SLL.pdb
+/Users/sujungchoi/Desktop/Coding/Algo_Practice/SLL/obj/Debug/net5.0/SLL.genruntimeconfig.cache
